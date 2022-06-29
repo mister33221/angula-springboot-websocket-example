@@ -1,6 +1,6 @@
-# RxJS, WebSocket, Angular 8, Spring-boot Example
+# RxJS, WebSocket, Angular , Spring-boot Example
 
-Websocket example with Spring, Angular 8, and RxJS' WebSocket package and WebSocketSubject. Without STOMP and SockJS. 
+Websocket example with Spring, Angular , and RxJS' WebSocket package and WebSocketSubject. Without STOMP and SockJS. 
 
 ## Resources
 
